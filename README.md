@@ -17,7 +17,7 @@ diagram front end 高质量前端图解
 ### 7. [Es6中的继承](https://www.bbsmax.com/A/A2dmaNLBde/)
 <a href="https://raw.githubusercontent.com/ihtml5/diagram/master/Es6中的继承.png"><img src="https://raw.githubusercontent.com/ihtml5/diagram/master/Es6中的继承.png" alt="GitHub" title="Es6中的继承" width="150" height="150" /></a>
 ### 8. [Es5中的继承](https://www.bbsmax.com/A/A2dmaNLBde/)
-<a href="https://raw.githubusercontent.com/ihtml5/diagram/master/Es5中的继承"><img src="https://raw.githubusercontent.com/ihtml5/diagram/master/Es5中的继承" alt="GitHub" title="Es5中的继承" width="150" height="150" /></a>
+<a href="https://raw.githubusercontent.com/ihtml5/diagram/master/Es5中的继承.png"><img src="https://raw.githubusercontent.com/ihtml5/diagram/master/Es5中的继承.png" alt="GitHub" title="Es5中的继承" width="150" height="150" /></a>
 ### 9. [cookie介绍](http://blog.jobbole.com/108191/)
 <a href="https://raw.githubusercontent.com/ihtml5/diagram/master/cookie.png"><img src="https://raw.githubusercontent.com/ihtml5/diagram/master/cookie.png" alt="GitHub" title="cookie.png" width="150" height="150" /></a>
 ### 10. [React Suspense](https://raw.githubusercontent.com/ihtml5/diagram/master/React%20Suspense%20Cheat%20Sheet.png)
