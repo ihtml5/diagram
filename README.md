@@ -9,7 +9,7 @@ diagram front end 高质量前端图解
 ### 3. [React New LifeCycle](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 <a href="http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/"><img src="https://raw.githubusercontent.com/ihtml5/diagram/master/React%20New%20Lifecycle.jpg" alt="GitHub" title="React New LifeCycle" width="150" height="150"/></a>
 ### 4. [Dom diff解析](https://yq.aliyun.com/articles/586669)
-<a href="http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/"><img src="https://raw.githubusercontent.com/ihtml5/diagram/master/dom%20diff.png" alt="GitHub" title="dom diff" width="150" height="150"/></a>
+<a href="https://raw.githubusercontent.com/ihtml5/diagram/master/dom%20diff.png"><img src="https://raw.githubusercontent.com/ihtml5/diagram/master/dom%20diff.png" alt="GitHub" title="dom diff" width="150" height="150"/></a>
 ### 5. [简化版的redux store](https://zhuanlan.zhihu.com/p/36116146)
 <a href="https://raw.githubusercontent.com/ihtml5/diagram/master/redux%20store.jpg"><img src="https://raw.githubusercontent.com/ihtml5/diagram/master/redux%20store.jpg" alt="GitHub" title="简化版的redux store" width="150" height="150" /></a>
 ### 6. [javascript原型链](https://raw.githubusercontent.com/ihtml5/diagram/master/javascript%20prototype%20chain.png)
