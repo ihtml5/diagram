@@ -1,5 +1,5 @@
 # diagram
-diagram front end 图说前端
+diagram front end 高质量前端图解
 
 ### 1. [http是什么](https://raw.githubusercontent.com/ihtml5/diagram/master/http%20what.png)
 <a href="https://raw.githubusercontent.com/ihtml5/diagram/master/http%20what.png"><img src="https://raw.githubusercontent.com/ihtml5/diagram/master/http%20what.png" alt="GitHub" title="http what" width="150" height="150" /></a>
