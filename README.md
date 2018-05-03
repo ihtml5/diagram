@@ -25,3 +25,6 @@ diagram front end 高质量前端图解
 ### 11. [history-of-web-frameworks-timeline](https://github.com/mraible/history-of-web-frameworks-timeline)
 <a href="https://raw.githubusercontent.com/mraible/history-of-web-frameworks-timeline/master/history-of-web-frameworks-timeline.png"><img src="https://raw.githubusercontent.com/mraible/history-of-web-frameworks-timeline/master/history-of-web-frameworks-timeline.png" alt="GitHub" title="React Suspense" width="150" height="150" /></a>
 
+### 12. [navigation timing recommendation](https://github.com/mraible/history-of-web-frameworks-timeline)
+<a href="https://raw.githubusercontent.com/mraible/history-of-web-frameworks-timeline/master/Navigation%20Timing%20Recommendation.png"><img src="https://raw.githubusercontent.com/mraible/history-of-web-frameworks-timeline/master/Navigation%20Timing%20Recommendation.png" alt="GitHub" title="React Suspense" width="150" height="150" /></a>
+
